@@ -1,5 +1,16 @@
 # ConvertType-Example
 
+Run by C:
+```
+make
+./main -i test.txt -o path
+```
+
+Run by python
+```
+python test.py
+```
+
 Input:
 ```
 ; Program Start
